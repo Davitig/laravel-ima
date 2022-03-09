@@ -80,4 +80,4 @@ The default configuration settings are set in `config/ima.php`. To modify the fi
 
 ## License
 
-Released under the MIT License, see [LICENSE](LICENSE).
+The software licensed under the [MIT license](https://opensource.org/licenses/MIT).
